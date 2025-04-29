@@ -1,4 +1,5 @@
-# GitHub Teacher
+
+# GitHub Teacher (Changed)
 
 Charting the knowledge of the Internet, just like Galileo charted the stars. (Changed)
 
@@ -21,3 +22,8 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership (Changed)
 
 Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites. (Changed)
+
+# References (Changed)
+
+* octocat 1 😈
+
